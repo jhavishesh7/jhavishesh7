@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developmental projects and cybersecurity solutions
 - 📫 How to reach me ...
 - 😄 Pronouns 
-- ⚡ Fun fact:Computing is easier than Physics...
+- ⚡ Fun fact:Computing is easier than Physics..
 
 <!---
 jhavishesh7/jhavishesh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
